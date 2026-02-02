@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+cd /home/kavia/workspace/code-generation/react-native-tetris-game-209506-209520/tetris_game_frontend
+npm run lint
+
